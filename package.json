@@ -6,6 +6,7 @@
   "main": "jsBasedLittleORM.js",
   "scripts": {
     "jsOrm": "node jsBasedLittleORM.js",
+    "parseAsset": "node parsePackages.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/shaileshdhobale/technical_developer_test_xor#readme",
   "dependencies": {
+    "express-brute": "^1.0.1",
+    "got": "^12.5.3",
     "lodash": "^4.17.21"
   }
 }
