@@ -1,0 +1,27 @@
+{
+  "name": "technical_developer_test_xor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Advanced JavaScript concepts",
+  "main": "jsBasedLittleORM.js",
+  "scripts": {
+    "jsOrm": "node jsBasedLittleORM.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaileshdhobale/technical_developer_test_xor.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Shailesh Dhobale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaileshdhobale/technical_developer_test_xor/issues"
+  },
+  "homepage": "https://github.com/shaileshdhobale/technical_developer_test_xor#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
